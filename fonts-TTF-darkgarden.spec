@@ -1,6 +1,6 @@
 %define		_name	darkgarden
 Summary:	Dark Garden font
-Summary(pl):	Czcionka dark garden
+Summary(pl.UTF-8):   Czcionka dark garden
 Name:		fonts-TTF-%{_name}
 Version:	1.1
 Release:	1
@@ -25,13 +25,13 @@ central European characters and some punctuation marks. Every non
 ASCII letter has been drawn anew instead of basing on the ASCII
 equivalent.
 
-%description -l pl
-Dark Garden to dekoracyjna czcionka konturowa o niezwyk³ym kszta³cie.
-Jej krój jest wzorowany na charakterze pisma autora. Styl liter jest
-zró¿nicowany, wszystkie s± udekorowane kolcami podobnymi do cierni lub
-p³omieni. Odstêpy miêdzy znakami. Zawiera litery z alfabetów
-zachodniej i ¶rodkowej Europy oraz niektóre znaki interpunkcyjne.
-Ka¿da litera spoza ASCII zosta³a stworzona od zera, bez bazowania na
+%description -l pl.UTF-8
+Dark Garden to dekoracyjna czcionka konturowa o niezwykÅ‚ym ksztaÅ‚cie.
+Jej krÃ³j jest wzorowany na charakterze pisma autora. Styl liter jest
+zrÃ³Å¼nicowany, wszystkie sÄ… udekorowane kolcami podobnymi do cierni lub
+pÅ‚omieni. OdstÄ™py miÄ™dzy znakami. Zawiera litery z alfabetÃ³w
+zachodniej i Å›rodkowej Europy oraz niektÃ³re znaki interpunkcyjne.
+KaÅ¼da litera spoza ASCII zostaÅ‚a stworzona od zera, bez bazowania na
 jej odpowiedniku z ASCII.
 
 %prep
