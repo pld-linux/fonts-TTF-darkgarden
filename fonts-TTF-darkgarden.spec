@@ -1,6 +1,6 @@
 %define		_name	darkgarden
 Summary:	Dark Garden font
-Summary(pl.UTF-8):   Czcionka dark garden
+Summary(pl.UTF-8):	Czcionka dark garden
 Name:		fonts-TTF-%{_name}
 Version:	1.1
 Release:	1
